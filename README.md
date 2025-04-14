@@ -5,11 +5,11 @@ This project is a web-based application designed to assist healthcare profession
 
 ## 🚀 Features
 
-- **AI-Powered Melanoma Detection** Utilizes convolutional neural networks (CNNs) trained on dermatological image datasets to identify potential melanoma case.
-- **User-Friendly Interface** A clean and intuitive web interface for uploading images and viewing result.
-- **Educational Resources** Provides information on melanoma prevention, symptoms, and treatment option.
-- **Secure Data Handling** Ensures user data privacy with secure image handling and no storage of personal dat.
-- **Responsive Design** Accessible across various devices, including desktops, tablets, and smartphone.
+- **AI-Powered Melanoma Detection** Utilizes convolutional neural networks (CNNs) trained on dermatological image datasets to identify potential melanoma case.
+- **User-Friendly Interface** A clean and intuitive web interface for uploading images and viewing result.
+- **Educational Resources** Provides information on melanoma prevention, symptoms, and treatment option.
+- **Secure Data Handling** Ensures user data privacy with secure image handling and no storage of personal dat.
+- **Responsive Design** Accessible across various devices, including desktops, tablets, and smartphone.
 
 ## 🖥️ Demo
 
@@ -17,37 +17,37 @@ This project is a web-based application designed to assist healthcare profession
 
 ## 🛠️ Installatin
 
-To set up the project locally, follow these stps:
+To set up the project locally, follow these stps:
 
 1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/sn3951/Melanoma-Cancer-Detection-Interface-Using-Deep-Learning.git
    ``
-
+
 
 2. **Navigate to the project directory**:
 
    ```bash
    cd Melanoma-Cancer-Detection-Interface-Using-Deep-Learning
    ``
-
+
 
 3. **Install dependencies**:
 
    ```bash
    npm install
    ``
-
+
 
 4. **Start the development server**:
 
    ```bash
    npm start
    ``
-
 
-The application will run at `http://localhost:300/`.
+
+The application will run at `http://localhost:300/`.
 
 ## 🧪 Usage
 1. Open the application in your web broser.
@@ -58,7 +58,7 @@ This project is a web-based application designed to assist healthcare profession
 
 ## 📁 Project Strucure
 
-
+
 ```bash
 ├── public/
 │   └── index.html
@@ -72,7 +72,7 @@ This project is a web-based application designed to assist healthcare profession
 ├── package.json
 └── README.m
 ```
-
+
 
 ## 📚 Technologies Used
 
