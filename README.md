@@ -11,9 +11,9 @@
 - **Secure Data Handling** Ensures user data privacy with secure image handling and no storage of personal dat.
 - **Responsive Design** Accessible across various devices, including desktops, tablets, and smartphone.
 
-## 🖥️ Dem
+## 🖥️ Demo
 
-Experience the live application here: [Melanoma Detection App](https://melanoma-cancer-detection-interface-using-deep-learning.vercel.ap/)
+- Experience the live application here: [Melanoma Detection App](https://melanoma-cancer-detection-interface-using-deep-learning.vercel.ap/)
 
 ## 🛠️ Installatin
 
