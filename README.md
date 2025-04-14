@@ -13,7 +13,7 @@
 
 ## 🖥️ Demo
 
-- Experience the live application here: [Melanoma Detection App]([https://melanoma-cancer-detection-interface-using-deep-learning.vercel.ap/](https://melanoma-cancer-detection-interface-using-deep-learning.vercel.app/))
+- Experience the live application here: [Melanoma Detection App]([https://melanoma-cancer-detection-interface-using-deep-learning.vercel.app/])
 
 ## 🛠️ Installatin
 
