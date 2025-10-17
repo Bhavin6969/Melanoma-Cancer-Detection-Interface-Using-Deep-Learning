@@ -77,7 +77,7 @@ The application will run at `http://localhost:300/`.
 ## 📚 Technologies Used
 
 - **Frontnd**: React.js, HTML, CSS3
-- **Backnd**: Node.js, Expess.js
+- **Backnd**: Node.js, Express.js
 - **Machine Learnng**: Tensorflow.js
 - **Deploymnt**: Vercel
 
