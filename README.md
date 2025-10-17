@@ -78,7 +78,7 @@ The application will run at `http://localhost:300/`.
 
 - **Frontnd**: React.js, HTML, CSS3
 - **Backnd**: Node.js, Expess.js
-- **Machine Learnng**: Tensorlow.js
+- **Machine Learnng**: Tensorflow.js
 - **Deploymnt**: Vercel
 
 ## 🧠 AI Model Dtails
